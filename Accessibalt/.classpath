@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/jars/js.jar"/>
+	<classpathentry kind="lib" path="libs/jars/jsapi.jar"/>
+	<classpathentry kind="lib" path="libs/jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="libs/jars/sphinx4.jar"/>
+	<classpathentry kind="lib" path="libs/jars/tags.jar"/>
+	<classpathentry kind="lib" path="libs/jars/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Mini_FreeRunner/libs/natives-win"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
