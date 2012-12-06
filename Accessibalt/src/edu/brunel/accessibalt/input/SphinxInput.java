@@ -1,10 +1,9 @@
-package edu.brunel.freerun;
+package edu.brunel.accessibalt.input;
 
 import edu.cmu.sphinx.frontend.util.Microphone;
 import edu.cmu.sphinx.recognizer.Recognizer;
 import edu.cmu.sphinx.result.Result;
 import edu.cmu.sphinx.util.props.ConfigurationManager;
-
 
 /**
  * A simple HelloWorld demo showing a simple speech application built using Sphinx-4. This application uses the Sphinx-4

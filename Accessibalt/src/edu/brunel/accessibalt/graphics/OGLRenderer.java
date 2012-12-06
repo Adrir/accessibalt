@@ -1,4 +1,4 @@
-package edu.brunel.freerun;
+package edu.brunel.accessibalt.graphics;
 
 import static org.lwjgl.opengl.GL11.*;
 
